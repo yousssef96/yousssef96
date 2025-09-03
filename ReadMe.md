@@ -14,6 +14,3 @@
 2. **[Fetal Health Prediction – fetal-health-prediction](https://github.com/yousssef96/fetal-health-prediction)**  
    A multiclass prediction project using ensemble models with majority vote to classify fetal health status.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yousssef96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=yousssef96&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousssef96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
