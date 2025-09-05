@@ -15,4 +15,4 @@
    A multiclass prediction project using ensemble models with majority vote to classify fetal health status.
 
 3. **[Sentiment Analysis of Women's Clothing Reviews ](https://github.com/yousssef96/sentiment-analysis)**
-
+    A sentiment Analysis project using TF-IDF, Logistic Regression, XGBoost, and ensemble models.
