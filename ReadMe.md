@@ -14,5 +14,8 @@
 2. **[Fetal Health Prediction – fetal-health-prediction](https://github.com/yousssef96/fetal-health-prediction)**  
    A multiclass prediction project using ensemble models with majority vote to classify fetal health status.
 
-3. **[Sentiment Analysis of Women's Clothing Reviews ](https://github.com/yousssef96/sentiment-analysis)**  
+3. **[Sentiment Analysis of Women's Clothing Reviews ](https://github.com/yousssef96/sentiment-analysis)**
     A sentiment Analysis project using TF-IDF, Logistic Regression, XGBoost, and ensemble models.
+
+4. **[Loan Approval Prediction – PyTorch](https://github.com/yousssef96/loan-prediction-pytorch)**
+   Predicts loan approval using financial and demographic features. Achieved 91.64% test accuracy with a PyTorch Lightning MLP.
