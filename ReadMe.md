@@ -19,3 +19,7 @@
 
 4. **[Loan Approval Prediction – PyTorch](https://github.com/yousssef96/loan-prediction-pytorch)**  
    Predicts loan approval using financial and demographic features. Achieved 91.64% test accuracy with a PyTorch Lightning MLP.
+   
+6. **[MRI-Tumor-Detection – PyTorch](https://github.com/yousssef96/MRI-Tumor-Detection)**  
+   Classifies brain MRI scans as tumor-positive or tumor-negative. Uses a ResNet50 pretrained on ImageNet with staged fine-tuning.
+   Achieved 92% test accuracy with PyTorch Lightning, handling small datasets effectively via transfer learning and data augmentation.
