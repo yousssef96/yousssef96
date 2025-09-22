@@ -23,3 +23,7 @@
 6. **[MRI-Tumor-Detection – PyTorch](https://github.com/yousssef96/MRI-Tumor-Detection)**  
    Classifies brain MRI scans as tumor-positive or tumor-negative. Uses a ResNet50 pretrained on ImageNet with staged fine-tuning.
    Achieved 92% test accuracy with PyTorch Lightning, handling small datasets effectively via transfer learning and data augmentation.
+
+7. **[Amazon-Reviews-Sentiment – PyTorch](https://github.com/yousssef96/bert-amazon-reviews)**
+   Uses a DistilBERT model pretrained on large-scale text data with staged fine-tuning.
+   Achieved 90% validation accuracy with PyTorch Lightning, leveraging Hugging Face Transformers and efficient dataset handling.
