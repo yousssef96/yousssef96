@@ -11,8 +11,8 @@
 1. **[Multi-modal AI Educational Assistant](https://github.com/yousssef96/Educational-Assistant)**   
    Developed a comprehensive learning platform integrating GPT-4o Vision and NLP to analyze PDFs, images, and YouTube videos for automated summarization, image-to-text diagram analysis, and academic assessment generation.
 
-2. **[Fetal Health Prediction – fetal-health-prediction](https://github.com/yousssef96/fetal-health-prediction)**  
-   A multiclass prediction project using ensemble models with majority vote to classify fetal health status.
+2. **[Lloyd-Bank-Loan-Default-Detection](https://github.com/yousssef96/Lloyd-Bank-Loan-Default-Detection)**  
+   A high-performance production pipeline for credit risk classification. Implemented Great Expectations to enforce data quality. Utilized LightGBM for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
 
 3. **[AI Real Estate Assistant (RAG & NLP)](https://github.com/yousssef96/Real-Estate-Assistant-RAG)**  
     Developed a bilingual (Arabic/English) search system using Retrieval-Augmented Generation (RAG) to replace traditional filters with a natural language interface.
