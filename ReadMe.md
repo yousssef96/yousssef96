@@ -14,7 +14,7 @@
 2. **[Lloyd-Bank-Loan-Default-Detection](https://github.com/yousssef96/Lloyd-Bank-Loan-Default-Detection)**  
    A high-performance production pipeline for credit risk classification. Implemented Great Expectations to enforce data quality. Utilized LightGBM for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
 
-3. **[AI Real Estate Assistant (RAG & NLP)](https://github.com/yousssef96/Real-Estate-Assistant-RAG)**  
+3. **[AI Real Estate Assistant (RAG & NLP)](https://github.com/yousssef96/Real-Estate-AI-Assistant)**  
     Developed a bilingual (Arabic/English) search system using Retrieval-Augmented Generation (RAG) to replace traditional filters with a natural language interface.
 
 4. **[Loan Approval Prediction – PyTorch](https://github.com/yousssef96/loan-prediction-pytorch)**  
