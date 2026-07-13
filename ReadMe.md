@@ -11,19 +11,12 @@
 1. **[Multi-modal AI Educational Assistant](https://github.com/yousssef96/Educational-Assistant)**   
    Developed a comprehensive learning platform integrating GPT-4o Vision and NLP to analyze PDFs, images, and YouTube videos for automated summarization, image-to-text diagram analysis, and academic assessment generation.
 
-2. **[Lloyd-Bank-Loan-Default-Detection](https://github.com/yousssef96/Lloyd-Bank-Loan-Default-Detection)**  
-   A high-performance production pipeline for credit risk classification. Implemented Great Expectations to enforce data quality. Utilized LightGBM for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
+2. **[Lloyd-Bank-Loan-Default-Detection](https://github.com/yousssef96/Loyd-Bank-Fraud-Detection)**  
+   A high-performance production pipeline for credit risk classification. Utilized LogisticRegression for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
 
 3. **[AI Real Estate Assistant (RAG & NLP)](https://github.com/yousssef96/Real-Estate-AI-Assistant)**  
     Developed a bilingual (Arabic/English) search system using Retrieval-Augmented Generation (RAG) to replace traditional filters with a natural language interface.
 
-4. **[Loan Approval Prediction – PyTorch](https://github.com/yousssef96/loan-prediction-pytorch)**  
-   Predicts loan approval using financial and demographic features. Achieved 91.64% test accuracy with a PyTorch Lightning MLP.
-   
-6. **[MRI-Tumor-Detection – PyTorch](https://github.com/yousssef96/MRI-Tumor-Detection)**  
-   Classifies brain MRI scans as tumor-positive or tumor-negative. Uses a ResNet50 pretrained on ImageNet with staged fine-tuning.
-   Achieved 92% test accuracy with PyTorch Lightning, handling small datasets effectively via transfer learning and data augmentation.
-
-7. **[Amazon-Reviews-Sentiment – PyTorch](https://github.com/yousssef96/bert-amazon-reviews)**  
+4. **[Amazon-Reviews-Sentiment – PyTorch](https://github.com/yousssef96/bert-amazon-reviews)**  
    Uses a DistilBERT model pretrained on large-scale text data with staged fine-tuning.
    Achieved 90% validation accuracy with PyTorch Lightning, leveraging Hugging Face Transformers and efficient dataset handling.
