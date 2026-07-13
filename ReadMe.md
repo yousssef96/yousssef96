@@ -11,7 +11,7 @@
 1. **[Multi-modal AI Educational Assistant](https://github.com/yousssef96/Educational-Assistant)**   
    Developed a comprehensive learning platform integrating GPT-4o Vision and NLP to analyze PDFs, images, and YouTube videos for automated summarization, image-to-text diagram analysis, and academic assessment generation.
 
-2. **[Lloyd-Bank-Loan-Default-Detection](https://github.com/yousssef96/Loyd-Bank-Fraud-Detection)**  
+2. **[Lloyd-Bank-Loan-Default-Detection (Classification)](https://github.com/yousssef96/Loyd-Bank-Fraud-Detection)**  
    A high-performance production pipeline for credit risk classification. Utilized LogisticRegression for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
 
 3. **[Bike Demand Time Series Forecasting (Time Series)](https://github.com/yousssef96/demand-forecast-prophet)**  
