@@ -14,8 +14,8 @@
 2. **[Lloyd-Bank-Loan-Default-Detection](https://github.com/yousssef96/Loyd-Bank-Fraud-Detection)**  
    A high-performance production pipeline for credit risk classification. Utilized LogisticRegression for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
 
-3. **[AI Real Estate Assistant (RAG & NLP)](https://github.com/yousssef96/Real-Estate-AI-Assistant)**  
-    Developed a bilingual (Arabic/English) search system using Retrieval-Augmented Generation (RAG) to replace traditional filters with a natural language interface.
+3. **[Bike Demand Time Series Forecasting (Time Series)](https://github.com/yousssef96/demand-forecast-prophet)**  
+    Time series forecasting project predicting daily bike rental demand using the UCI/Capital Bikeshare Daily Bike Sharing Dataset. Four forecasting approaches — Prophet, SARIMAX, Holt-Winters, and Auto-ARIMA are  built, tuned, and compared on a 30-day held-out test window, with the best model tracked, tuned, and registered via MLflow and Optuna, and served through an interactive Streamlit app.
 
 4. **[Amazon-Reviews-Sentiment – PyTorch](https://github.com/yousssef96/bert-amazon-reviews)**  
    Uses a DistilBERT model pretrained on large-scale text data with staged fine-tuning.
