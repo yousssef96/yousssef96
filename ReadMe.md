@@ -17,6 +17,5 @@
 3. **[Bike Demand Time Series Forecasting (Time Series)](https://github.com/yousssef96/demand-forecast-prophet)**  
     Time series forecasting project predicting daily bike rental demand using the UCI/Capital Bikeshare Daily Bike Sharing Dataset. Four forecasting approaches — Prophet, SARIMAX, Holt-Winters, and Auto-ARIMA are  built, tuned, and compared on a 30-day held-out test window, with the best model tracked, tuned, and registered via MLflow and Optuna, and served through an interactive Streamlit app.
 
-4. **[Amazon-Reviews-Sentiment – PyTorch](https://github.com/yousssef96/bert-amazon-reviews)**  
-   Uses a DistilBERT model pretrained on large-scale text data with staged fine-tuning.
-   Achieved 90% validation accuracy with PyTorch Lightning, leveraging Hugging Face Transformers and efficient dataset handling.
+4. **[BMW EV Test-Drive Customer Segmentation](https://github.com/yousssef96/bmw-ev-test-drive-segmentation)**  
+   Segmented website visitors into three target marketing personas (Non-Prospects, Re-Targeting, Later Campaign) to optimize a £100K EV launch budget allocation. Implemented a KMeans clustering pipeline serialized with skops and logged across MLflow for reproducible deployment within an interactive Streamlit app.
