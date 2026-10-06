@@ -12,10 +12,13 @@
    Developed a comprehensive learning platform integrating Qwen3 through Hugging Face to analyze PDFs, images, and YouTube videos for automated summarization, image-to-text diagram analysis, and academic assessment generation.
 
 2. **[Loyd-Bank-Fraud-Detection (Classification)](https://github.com/yousssef96/Loyd-Bank-Fraud-Detection)**  
-   A high-performance production pipeline for credit risk classification. Utilized LogisticRegression for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving. 
+   A high-performance production pipeline for credit risk classification. Utilized LogisticRegression for optimized gradient boosting on tabular data. Containerized the decoupled architecture with Docker, deploying a FastAPI backend and Streamlit UI to handle real-time inference and model serving.
 
-3. **[Bike Demand Time Series Forecasting (Time Series)](https://github.com/yousssef96/demand-forecast-prophet)**  
+3. **[E-Commerce Review Recommendation Classifier (NLP)](https://github.com/yousssef96/E-Commerce-Clothing-Reviews)**  
+   Built an end-to-end sentiment classification pipeline comparing TF-IDF + Logistic Regression against fine-tuned DistilBERT via PyTorch on 23K+ product reviews (~88% accuracy). Selected and serialized Logistic Regression for serving to achieve ultra-low inference latency (< 2 ms) and lightweight CPU deployment in production environments.
+
+5. **[Bike Demand Time Series Forecasting (Time Series)](https://github.com/yousssef96/demand-forecast-prophet)**  
     Time series forecasting project predicting daily bike rental demand using the UCI/Capital Bikeshare Daily Bike Sharing Dataset. Four forecasting approaches — Prophet, SARIMAX, Holt-Winters, and Auto-ARIMA are  built, tuned, and compared on a 30-day held-out test window, with the best model tracked, tuned, and registered via MLflow and Optuna, and served through an interactive Streamlit app.
 
-4. **[BMW EV Test-Drive Customer Segmentation](https://github.com/yousssef96/bmw-ev-test-drive-segmentation)**  
+6. **[BMW EV Test-Drive Customer Segmentation](https://github.com/yousssef96/bmw-ev-test-drive-segmentation)**  
    Segmented website visitors into three target marketing personas (Non-Prospects, Re-Targeting, Later Campaign) to optimize a £100K EV launch budget allocation. Implemented a KMeans clustering pipeline serialized with skops and logged across MLflow for reproducible deployment within an interactive Streamlit app.
