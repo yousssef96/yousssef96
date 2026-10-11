@@ -22,5 +22,5 @@
 
 6. **[BMW EV Test-Drive Customer Segmentation](https://github.com/yousssef96/bmw-ev-test-drive-segmentation)**  
    Segmented website visitors into three target marketing personas (Non-Prospects, Re-Targeting, Later Campaign) to optimize a £100K EV launch budget allocation. Implemented a KMeans clustering pipeline serialized with skops and logged across MLflow for reproducible deployment within an interactive Streamlit app.
-7. **[FoodVision Mini Food Image Classifier ](https://github.com/yousssef96/Food-Classification)**  
+7. **[FoodVision Mini Food Image Classifier (Computer Vision)](https://github.com/yousssef96/Food-Classification)**  
    Fine-tuned a pretrained EfficientNetB2 via transfer learning to classify food images into three classes (pizza, steak, sushi)
